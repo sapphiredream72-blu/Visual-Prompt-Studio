@@ -1,2 +1,4 @@
 # Visual-Prompt-Studio
-This is my prompt portfolio for my Art Appreciation Class
+Iris Sanchez
+Art Appreciation 1301-1
+Prompt portfolio for Art Appreciation Class
